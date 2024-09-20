@@ -1,0 +1,8 @@
+
+p{
+  display: inline;
+}
+.session {
+  display: inline-block;
+  width: fit-content;
+}
